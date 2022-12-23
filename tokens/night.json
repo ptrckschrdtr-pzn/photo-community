@@ -1,0 +1,12 @@
+{
+  "color": {
+    "background": {
+      "value": "{zinc.900}",
+      "type": "color"
+    },
+    "surface": {
+      "value": "{zinc.800}",
+      "type": "color"
+    }
+  }
+}
