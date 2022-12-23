@@ -7,6 +7,32 @@
     "surface": {
       "value": "{zinc.800}",
       "type": "color"
+    },
+    "border": {
+      "value": "{zinc.200}",
+      "type": "color"
+    },
+    "text": {
+      "heading": {
+        "value": "{zinc.200}",
+        "type": "color"
+      },
+      "body": {
+        "value": "{zinc.300}",
+        "type": "color"
+      },
+      "captions": {
+        "value": "{zinc.500}",
+        "type": "color"
+      },
+      "deemphasized": {
+        "value": "{zinc.600}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{color.primary.light}",
+        "type": "color"
+      }
     }
   }
 }
